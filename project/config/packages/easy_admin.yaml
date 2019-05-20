@@ -2,6 +2,7 @@ easy_admin:
     entities:
         - App\Entity\Article
         - App\Entity\Comment
+        - App\Entity\User
 #        # List the entity class name you want to manage
 #        - App\Entity\Product
 #        - App\Entity\Category
